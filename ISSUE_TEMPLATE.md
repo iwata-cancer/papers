@@ -41,3 +41,10 @@ about: 論文要旨のテンプレ
 
 ## 6. 次に読むべき論文は? (Reading suggestion)
 
+
+<br/>
+
+## 論文へのリンク (Link to the paper)
+
+
+<br/>
